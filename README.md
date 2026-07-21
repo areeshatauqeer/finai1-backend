@@ -1,8 +1,8 @@
 # FinTrack — Backend API
 
-Node.js/Express REST API for the [FinTrack frontend](https://github.com/areeshataucqeer/finai1-frontend) — handles transactions, budgets, and savings goals, backed by MongoDB.
+Node.js/Express REST API for the [FinTrack frontend](https://github.com/areeshatauqeer/finai1-frontend) — handles transactions, budgets, and savings goals, backed by MongoDB.
 
-> 📱 This is the **backend** repo. The React Native/Expo app that consumes this API lives here: [finai1-frontend](https://github.com/areeshataucqeer/finai1-frontend)
+> 📱 This is the **backend** repo. The React Native/Expo app that consumes this API lives here: [finai1-frontend](https://github.com/areeshatauqeer/finai1-frontend)
 
 ## Features
 
